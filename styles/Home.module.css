@@ -41,9 +41,7 @@
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(25%, auto));
   width: var(--max-width);
-  max-width: 100%;
 }
 
 .card {
@@ -73,11 +71,11 @@
 }
 
 .center {
-  display: flex;
-  justify-content: center;
+  /* display: flex; */
+  justify-content:baseline;
   align-items: center;
   position: relative;
-  padding: 4rem 0;
+  padding: 1rem 0;
 }
 
 .center::before {
@@ -258,7 +256,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .vercelLogo {
+  .notelinkLogo {
     filter: invert(1);
   }
 
