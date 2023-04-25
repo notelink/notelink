@@ -194,6 +194,8 @@ button[disabled]{
 button.btn-blue {
   background-color: var(--color-blue);
   color: white;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
 }
 
 button.btn-red {
@@ -217,6 +219,14 @@ button.btn-google {
 }
 
 button.btn-logo {
+  background-color: var(--color-text);
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem;
+}
+
+button.btn-login {
   background-color: var(--color-text);
   color: white;
   text-transform: uppercase;

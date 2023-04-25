@@ -27,14 +27,14 @@ function SignInButton() {
             >
                 <img src={"/google.png"} width="30px" /> Sign in with Google
             </button>
-            <button onClick={() => console.log("login successfully")}>Sign in Anonymously</button>
+            <button className="btn-blue" onClick={() => console.log("login successfully")}>Sign in Anonymously</button>
         </>
     );
 }
 
 // Sign out button
 function SignOutButton() {
-    return <button onClick={() => console.log("logout successfully")}>Sign Out</button>;
+    return <button className="btn-blue" onClick={() => console.log("logout successfully")}>Sign Out</button>;
 }
 
 // Username form

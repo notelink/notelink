@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .main {
   display: flex;
   flex-direction: column;
@@ -90,7 +94,7 @@
   background: var(--primary-glow);
   width: 240px;
   height: 180px;
-  z-index: -1;
+  z-index: -99;
 }
 
 .center::before,
@@ -100,6 +104,7 @@
   position: absolute;
   filter: blur(45px);
   transform: translateZ(0);
+  z-index: -99;
 }
 
 .logo,
