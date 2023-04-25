@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - If you're making changes to code, please make sure your changes adhere to our coding standards.
 - When you submit a pull request, please provide a clear description of the changes you've made and why you've made them.
 - If you're making significant changes, `please create a new branch` for your work so that it's easy to review your changes.
-- If you have any questions or need help with contributing, please reach out to [@n-dcool](https://github.com/n-dcool) for assistance.
+- If you have any questions or need help with contributing, please reach out to any organization member or [@n-dcool](https://github.com/n-dcool) for assistance.
 
 ### 🤗 Conclusion
 
