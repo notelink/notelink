@@ -27,6 +27,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - If you're making significant changes, `please create a new branch` for your work so that it's easy to review your changes.
 - If you have any questions or need help with contributing, please reach out to any organization member or [@n-dcool](https://github.com/n-dcool) for assistance.
 
+### 📌 Todos : 
+
+- [ ] backend logic
+- [ ] Home Page
+- [ ] Authentication with Google
+- [ ] Anonymous login
+- [ ] User/Admin profile with record of created notes
+- [ ] Allow to edit notes
+- [ ] make notes markdown friendly so that it render in beautiful style
+
 ### 🤗 Conclusion
 
 Thank you for considering contributing to NoteLink . We appreciate all contributions, no matter how big or small. Together, we can build amazing things!
