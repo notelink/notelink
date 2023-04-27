@@ -11,6 +11,8 @@ git clone https://github.com/notelink/notelink.git
 
 cd notelink
 
+npm install
+
 npm run dev 
 ```
 
